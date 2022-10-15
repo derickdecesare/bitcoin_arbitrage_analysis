@@ -26,3 +26,9 @@ bitstamp.csv shows the bitcoin price actions from 2018-01-01 to 2018-04-01 on th
 ## Ussage
 
 Upon launching the crypto_arbitrage.ipynb run each cell sequentially.
+
+## Analysis
+
+Here is a chart showing an overview of price differences of BTC between two exchanges. These are potential opportunities for arbitrage.
+
+![arb](arb.png)
