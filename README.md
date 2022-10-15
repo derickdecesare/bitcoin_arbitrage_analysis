@@ -32,3 +32,11 @@ Upon launching the crypto_arbitrage.ipynb run each cell sequentially.
 Here is a chart showing an overview of price differences of BTC between two exchanges. These are potential opportunities for arbitrage.
 
 ![arb](arb.png)
+
+This chart shows the arbitrage oportunites zoomed in.
+
+![zoom](zoom.png)
+
+This graph show the cumulative profit if we were to successfully take each arbitrage opportunity (without accounting for trading fees).
+
+![profit](profit.png)
